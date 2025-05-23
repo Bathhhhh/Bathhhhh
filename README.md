@@ -2,11 +2,11 @@
 " I will become a good developer on someday "
   
 	const Teerapat  = { 
- 	  pronouns: "he" | "him", 
-  	  codes: [Javascript, Typescript, HTML, CSS, Python], 
- 	  	 Frameworks: [React, Tailwindcss, Next Js], 
-  	  other: ["MySQL"] 
- 	 }
+ 	                     pronouns: "he" | "him", 
+  	                     codes: [Javascript, Typescript, HTML, CSS, Python], 
+ 	  	             Frameworks: [React, Tailwindcss, Next Js], 
+  	                     other: ["MySQL"] 
+ 	                  }
 
 <!---
 Bathhhhh/Bathhhhh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
